@@ -2,4 +2,3 @@
 sudo su -
 yum update
 yum -y install httpd
-rm /var/www/html/*
